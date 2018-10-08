@@ -28,5 +28,5 @@
 - Unsplash https://unsplash.com/
 - Pixabay https://pixabay.com/
 
-### 'Subtles' pattern for backgrounds
+### 'Subtle' patterns for subtle backgrounds
 - Subtle patterns https://www.toptal.com/designers/subtlepatterns/
